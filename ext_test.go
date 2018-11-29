@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gopkg.in/vmihailenco/msgpack.v2"
-	"gopkg.in/vmihailenco/msgpack.v2/codes"
+	"github.com/311devs/msgpack"
+	"github.com/311devs/msgpack/codes"
 )
 
 func init() {

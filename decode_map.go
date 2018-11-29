@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"gopkg.in/vmihailenco/msgpack.v2/codes"
+	"github.com/311devs/msgpack/codes"
 )
 
 const mapElemsAllocLimit = 1e4

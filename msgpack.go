@@ -1,4 +1,4 @@
-package msgpack // import "gopkg.in/vmihailenco/msgpack.v2"
+package msgpack // import "github.com/311devs/msgpack"
 
 // Deprecated. Use CustomEncoder.
 type Marshaler interface {
